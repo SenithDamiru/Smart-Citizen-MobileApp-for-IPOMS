@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852218509773",
+    "project_id": "smart-citizen-cbea9",
+    "storage_bucket": "smart-citizen-cbea9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852218509773:android:a013b49a12b78c09aaec84",
+        "android_client_info": {
+          "package_name": "com.example.untitled2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCES0imbXBn0yrxxyq7WFoP43xhUKoRWNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
